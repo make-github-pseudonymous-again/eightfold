@@ -58,7 +58,14 @@ I want to go one step further.
 > more effective.
 > [Put the power of the Verizon Media and Microsoft partnership to work for you (!)](https://www.oath.com/insights/put-the-power-of-the-verizon-media-and-microsoft-partnership-to)
 
-  - Microsoft Windows `~` Any [distribution](https://distrowatch.com/dwres.php?resource=popularity) of the [Linux](https://github.com/torvalds/linux) operating system: [Manjaro](https://manjaro.org), [Linux Mint](https://linuxmint.com), [Arch Linux](https://www.archlinux.org) ... ([other alternatives](https://alternativeto.net/software/windows-10))
+  - Microsoft Windows `~` Any
+[distribution](https://distrowatch.com/dwres.php?resource=popularity) of
+the
+[GNU](https://www.gnu.org)/[Linux](https://github.com/torvalds/linux)
+operating system:
+[Manjaro](https://manjaro.org), [Linux Mint](https://linuxmint.com), [Arch
+Linux](https://www.archlinux.org) ... ([other
+alternatives](https://alternativeto.net/software/windows-10))
 
 ### Five. Dropbox
 
