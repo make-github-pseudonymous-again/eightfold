@@ -22,6 +22,7 @@ I want to go one step further.
 
   - Google Search `~` [DuckDuckGo](https://duckduckgo.com). ([other alternatives](https://alternativeto.net/software/google-search))
   - Goole Drive `~` [Syncthing](https://syncthing.net). ([other alternatives](https://alternativeto.net/software/google-drive))
+  - Google Photos `~` [PhotoPrism](https://photoprism.org). ([other alternatives](https://alternativeto.net/software/google-photos))
   - Google Maps `~` [OpenStreetMap](https://www.openstreetmap.org/about). ([other alternatives](https://alternativeto.net/software/google-maps))
   - Gmail `~` Use snailmail? ([other alternatives](https://alternativeto.net/software/gmail))
   - Android `~` [LineageOS](https://lineageos.org). ([other alternatives](https://alternativeto.net/software/android))
