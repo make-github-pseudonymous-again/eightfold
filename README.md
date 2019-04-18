@@ -77,6 +77,8 @@ Buy CD's?
 
 ## Epilogue
 
-[Alternatives to AlternativeTo](https://alternativeto.net/software/alternativeto)
-and why, indeed,
-[privacy does matter](https://www.privacytools.io).
+[Alternatives to AlternativeTo](https://alternativeto.net/software/alternativeto),
+why, indeed,
+[privacy does matter](https://www.privacytools.io),
+and some
+[surveillance self-defense](https://ssd.eff.org/module-categories/tool-guides).
