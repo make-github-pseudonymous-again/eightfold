@@ -32,6 +32,8 @@ I want to go one step further.
   - Google Translate `~` ? ([other alternatives](https://alternativeto.net/software/google-translate))
 
 ### Two. Facebook
+> Your next customers are here.
+> [FaceBook business](https://www.facebook.com/business/ads/ad-targeting)
 
   - Facebook `~` [Mastodon](https://mastodon.social). ([other alternatives](https://alternativeto.net/software/facebook))
   - Whatsapp `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/whatsapp))
