@@ -1,4 +1,4 @@
-The Noble Eightfold Path
+:hiking_boot: The Noble Eightfold Path
 ==
 
 > The Noble Eightfold Path is an early summary of the path of Buddhist
