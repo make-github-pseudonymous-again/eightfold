@@ -5,9 +5,14 @@
 > practices leading to liberation from samsara, the painful cycle of rebirth.
 > [Wikipedia](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 
+<p align="center">
+<a href="https://fixitalready.eff.org">
 <img src="https://ipfs.io/ipfs/QmUonfRreztzciUfFGhrJAzpFGCXUwE3eVHe3Dvwfrb9XL" width="864">
+</a><br/>
+© <a href="https://eff.org">Electronic Frontier Foundation</a>
+</p>
 
-EFF wants [GFAM+](https://en.wikipedia.org/wiki/Big_Four_tech_companies) to
+[EFF](https://eff.org) wants [GFAM+](https://en.wikipedia.org/wiki/Big_Four_tech_companies) to
 [fix their software to comply with sane security and privacy practices](https://fixitalready.eff.org).
 I want to go one step further.
 
