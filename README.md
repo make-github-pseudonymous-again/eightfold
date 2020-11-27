@@ -16,7 +16,7 @@
 [fix their software to comply with sane security and privacy practices](https://fixitalready.eff.org).
 I want to go one step further.
 
-## The Eight Plus One Pilars of Enlightenment
+## The Eight Plus One Pillars of Enlightenment
 > Disclaimer. I still use some of the listed culprits. This list is there to give new ideas.
 
 ### One. Google
