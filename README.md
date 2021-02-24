@@ -19,7 +19,7 @@ I want to go one step further.
 ## The Eight Plus One Pillars of Enlightenment
 > Disclaimer. I still use some of the listed culprits. This list is there to give new ideas.
 
-### One. Google
+### *One.* Google
 > With Google Ads you will see how many people are shown your ads, visit your
 > website, or call your business. You can even reach specific types of people
 > if your business is specialized.
@@ -36,14 +36,14 @@ I want to go one step further.
   - Hangouts `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/google-hangouts))
   - Google Translate `~` ? ([other alternatives](https://alternativeto.net/software/google-translate))
 
-### Two. Facebook
+### *Two.* Facebook
 > Your next customers are here.
 > [FaceBook business](https://www.facebook.com/business/ads/ad-targeting)
 
   - Facebook `~` [Mastodon](https://mastodon.social). ([other alternatives](https://alternativeto.net/software/facebook))
   - Whatsapp `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/whatsapp))
 
-### Three. Twitter
+### *Three.* Twitter
 > Reach the right audience by targeting based on interests, geography, gender,
 > device, or users similar to your followers. In addition, maximize the
 > relevancy of your message by targeting by keywords in people’s Tweets. 
@@ -55,7 +55,7 @@ I want to go one step further.
 
   - Twitter `~` [Mastodon](https://mastodon.social/about). ([other alternatives](https://alternativeto.net/software/twitter))
 
-### Four. Microsoft
+### *Four.* Microsoft
 > Verizon Media's partnership with Microsoft provides marketers with unrivaled
 > access to premium, brand safe inventory with the highest viewability.
 > Microsoft is home to solutions ranging from premium native and display to the
@@ -75,17 +75,17 @@ Linux](https://www.archlinux.org) ... ([other
 alternatives](https://alternativeto.net/software/windows-10))
   - Skype `~` [tox](https://tox.chat). ([other alternatives](https://alternativeto.net/software/skype))
 
-### Five. Dropbox
+### *Five.* Dropbox
 
   - Dropbox `~` [Syncthing](https://syncthing.net). ([other alternatives](https://alternativeto.net/software/dropbox))
 
-### Six. Amazon
+### *Six.* Amazon
 Do not use Amazon.
 
-### Seven. Apple
+### *Seven.* Apple
 Do not use Apple products.
 
-### Eight. Spotify & Netflix
+### *Eight.* Spotify & Netflix
 Buy CD's, DVD's, and BR's?
 
 ## Epilogue
