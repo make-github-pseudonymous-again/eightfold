@@ -35,6 +35,7 @@ I want to go one step further.
   - Waze `~` Use a paper map and leave on time. ([other alternatives](https://alternativeto.net/software/waze))
   - Hangouts `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/google-hangouts))
   - Google Translate `~` ? ([other alternatives](https://alternativeto.net/software/google-translate))
+  - Google Analytics `~` [Matomo](https://matomo.org), [Ackee](https://github.com/electerious/Ackee). ([other alternatives](https://alternativeto.net/software/google-analytics))
 
 ### *Two.* Facebook
 > Your next customers are here.
