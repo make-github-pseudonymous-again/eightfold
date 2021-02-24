@@ -74,7 +74,7 @@ operating system:
 [Manjaro](https://manjaro.org), [Linux Mint](https://linuxmint.com), [Arch
 Linux](https://www.archlinux.org) ... ([other
 alternatives](https://alternativeto.net/software/windows-10))
-  - Skype `~` [tox](https://tox.chat). ([other alternatives](https://alternativeto.net/software/skype))
+  - Skype `~` [Signal](https://signal.org), [Meething](https://meething.space), [Jami](https://jami.net), [Jitsi](https://meet.jit.si), and [tox](https://tox.chat). ([other alternatives](https://alternativeto.net/software/skype))
 
 ### *Five.* Dropbox
 
