@@ -85,11 +85,8 @@ Do not use Amazon.
 ### Seven. Apple
 Do not use Apple products.
 
-### Eight. Netflix
-Buy BR's and DVD's?
-
-### Eight (bis). Spotify
-Buy CD's?
+### Eight. Spotify & Netflix
+Buy CD's, DVD's, and BR's?
 
 ## Epilogue
 
