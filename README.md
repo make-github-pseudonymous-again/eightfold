@@ -77,6 +77,18 @@ alternatives](https://alternativeto.net/software/windows-10))
   - Skype `~` [Signal](https://signal.org), [Meething](https://meething.space), [Jami](https://jami.net), [Jitsi](https://meet.jit.si), and [tox](https://tox.chat). ([other alternatives](https://alternativeto.net/software/skype))
 
 ### *Five.* Dropbox
+> In July 2018, researchers at Northwestern University published an article
+> in Harvard Business Review on the analysis of the habits of tens of thousands
+> of scientists using anonymized data provided by Dropbox. The data used was
+> over the period from May 2015 to May 2017 from all scientists using the
+> platform across 1000 universities. Personal names attached to the data
+> was removed by Dropbox, but according to Casey Fiesler, researcher at
+> Colorado University, the folder titles and file structures that were provided
+> could be used to identify individuals. Dropbox, later in a blog post,
+> said that the reverse identification of the data was impossible. The data was
+> provided without the express consent of the 16 thousand people whose
+> information was accessed.
+> [Criticism of Dropbox](https://en.wikipedia.org/wiki/Criticism_of_Dropbox)
 
   - Dropbox `~` [Syncthing](https://syncthing.net). ([other alternatives](https://alternativeto.net/software/dropbox))
 
