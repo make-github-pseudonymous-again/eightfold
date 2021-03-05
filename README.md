@@ -36,6 +36,7 @@ I want to go one step further.
   - Hangouts `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/google-hangouts))
   - Google Translate `~` ? ([other alternatives](https://alternativeto.net/software/google-translate))
   - Google Analytics `~` [Matomo](https://matomo.org), [Ackee](https://github.com/electerious/Ackee). ([other alternatives](https://alternativeto.net/software/google-analytics))
+  - Google Authenticator `~` [andOTP](https://github.com/andOTP/andOTP#downloads). ([other alternatives](https://alternativeto.net/software/google-authenticator))
 
 ### *Two.* Facebook
 > Your next customers are here.
