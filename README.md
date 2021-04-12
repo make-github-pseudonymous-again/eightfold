@@ -42,7 +42,7 @@ I want to go one step further.
 > Your next customers are here.
 > [FaceBook business](https://www.facebook.com/business/ads/ad-targeting)
 
-  - Facebook `~` [Mastodon](https://mastodon.social). ([other alternatives](https://alternativeto.net/software/facebook))
+  - Facebook `~` [Scuttlebut](https://scuttlebutt.nz)/[Manyverse](https://manyver.se), [Mastodon](https://mastodon.social). ([other alternatives](https://alternativeto.net/software/facebook))
   - Whatsapp `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/whatsapp))
 
 ### *Three.* Twitter
@@ -55,7 +55,7 @@ I want to go one step further.
 > data to power your business at scale. 
 > [Unleash the power of Twitter data (!)](https://developer.twitter.com/en/enterprise.html)
 
-  - Twitter `~` [Mastodon](https://mastodon.social/about). ([other alternatives](https://alternativeto.net/software/twitter))
+  - Twitter `~` [Scuttlebut](https://scuttlebutt.nz)/[Manyverse](https://manyver.se), [Mastodon](https://mastodon.social). ([other alternatives](https://alternativeto.net/software/twitter))
 
 ### *Four.* Microsoft
 > Verizon Media's partnership with Microsoft provides marketers with unrivaled
