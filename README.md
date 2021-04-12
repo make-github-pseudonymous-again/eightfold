@@ -35,7 +35,7 @@ I want to go one step further.
   - Waze `~` Use a paper map and leave on time. ([other alternatives](https://alternativeto.net/software/waze))
   - Hangouts `~` [Signal](https://signal.org). ([other alternatives](https://alternativeto.net/software/google-hangouts))
   - Google Translate `~` ? ([other alternatives](https://alternativeto.net/software/google-translate))
-  - Google Analytics `~` [Matomo](https://matomo.org), [Ackee](https://ackee.electerious.com), and [Plausible](https://plausible.io). ([other alternatives](https://alternativeto.net/software/google-analytics))
+  - Google Analytics `~` [Ackee](https://ackee.electerious.com), [Plausible](https://plausible.io), and [Matomo](https://matomo.org). ([other alternatives](https://alternativeto.net/software/google-analytics))
   - Google Authenticator `~` [andOTP](https://github.com/andOTP/andOTP#downloads). ([other alternatives](https://alternativeto.net/software/google-authenticator))
 
 ### *Two.* Facebook
